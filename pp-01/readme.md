@@ -28,6 +28,8 @@ remote GitHub repository. Follow the steps below exactly in order to receive ful
    and add to it the URL to your fork of the GitHub repository, and the add and commit:
    
    My Production Problems repository URL:
+	
+    https://github.com/jshakil/itmd-361-pp.git
 
 4. Next, push your commit to GitHub. `git push origin master` from your command line.
 
